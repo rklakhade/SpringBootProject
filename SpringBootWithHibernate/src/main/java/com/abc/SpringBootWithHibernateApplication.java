@@ -8,6 +8,8 @@ public class SpringBootWithHibernateApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootWithHibernateApplication.class, args);
+		
+		
 	}
 
 }
