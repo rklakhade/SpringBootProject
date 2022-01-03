@@ -9,7 +9,7 @@ public class SpringBootWithHibernateApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootWithHibernateApplication.class, args);
 		
-		System.out.println("roshan");
+		//System.out.println("devansh");
 	}
 
 }
