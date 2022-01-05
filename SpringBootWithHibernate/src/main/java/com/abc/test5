@@ -1,1 +1,10 @@
-g
+16. git log
+With the help of the Git log, you can see all the previous commits with the most recent commit appear first.
+
+Usage 
+
+$ git log 
+
+By default, it will show you all the commits of the currently checked out branch, but you can force it to see all the commits of all the branches with all options. 
+
+$ git log --all
